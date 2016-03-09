@@ -1,2 +1,2 @@
 # 7etris
-Tetris implementation written in C &amp; openGL library
+Tetris implementation for win32 written in C &amp; openGL library.
